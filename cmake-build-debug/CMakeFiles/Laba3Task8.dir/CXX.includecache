@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/cocoryse/Desktop/Учусь/c++/Laba3Task8/CommunalPayment.h
+iostream
+-
+string
+-
+
+/Users/cocoryse/Desktop/Учусь/c++/Laba3Task8/DataList.h
+string
+/Users/cocoryse/Desktop/Учусь/c++/Laba3Task8/string
+CommunalPayment.h
+/Users/cocoryse/Desktop/Учусь/c++/Laba3Task8/CommunalPayment.h
+deque
+-
+algorithm
+-
+fstream
+-
+
+/Users/cocoryse/Desktop/Учусь/c++/Laba3Task8/main.cpp
+iostream
+-
+DataList.h
+/Users/cocoryse/Desktop/Учусь/c++/Laba3Task8/DataList.h
+
