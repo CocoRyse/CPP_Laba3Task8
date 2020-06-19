@@ -4,6 +4,7 @@
 
 #include <iostream>
 #include "string"
+#include "Utils.h"
 
 using std::string;
 using std::cin;
@@ -61,7 +62,7 @@ int my_atoi(string str) { // не использовать сишные функ
     return num < INT_MIN ? INT_MIN : (num > INT_MAX ? INT_MAX : num);
 }
 
-int input_pos_int(const string& text, std::istream &in = cin) {
+int input_pos_int(const string& text, std::istream &in) {
     string input;
     int result = -1;
 

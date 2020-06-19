@@ -6,7 +6,7 @@
 #include <utility>
 #include <set>
 #include <fstream>
-#include "Utils.cpp"
+#include "Utils.h"
 
 CommunalPayment::CommunalPayment(Address new_address,
                                  string new_owner_surname,

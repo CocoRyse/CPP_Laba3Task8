@@ -3,8 +3,13 @@
 
 CMakeFiles/Laba3Task8.dir/CommunalPayment.cpp.o: ../CommunalPayment.cpp
 CMakeFiles/Laba3Task8.dir/CommunalPayment.cpp.o: ../CommunalPayment.h
+CMakeFiles/Laba3Task8.dir/CommunalPayment.cpp.o: ../Utils.h
+
+CMakeFiles/Laba3Task8.dir/Utils.cpp.o: ../Utils.cpp
+CMakeFiles/Laba3Task8.dir/Utils.cpp.o: ../Utils.h
 
 CMakeFiles/Laba3Task8.dir/main.cpp.o: ../CommunalPayment.h
 CMakeFiles/Laba3Task8.dir/main.cpp.o: ../DataList.h
+CMakeFiles/Laba3Task8.dir/main.cpp.o: ../Utils.h
 CMakeFiles/Laba3Task8.dir/main.cpp.o: ../main.cpp
 

@@ -6,27 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/Users/cocoryse/Desktop/Учусь/c++/Laba3Task8/CommunalPayment.h
+/Users/cocoryse/Desktop/Учусь/c++/Laba3Task8/Utils.cpp
 iostream
 -
-string
--
-
-/Users/cocoryse/Desktop/Учусь/c++/Laba3Task8/DataList.h
 string
 /Users/cocoryse/Desktop/Учусь/c++/Laba3Task8/string
-CommunalPayment.h
-/Users/cocoryse/Desktop/Учусь/c++/Laba3Task8/CommunalPayment.h
-deque
--
-algorithm
--
-fstream
--
+Utils.h
+/Users/cocoryse/Desktop/Учусь/c++/Laba3Task8/Utils.h
 
-/Users/cocoryse/Desktop/Учусь/c++/Laba3Task8/main.cpp
+/Users/cocoryse/Desktop/Учусь/c++/Laba3Task8/Utils.h
 iostream
 -
-DataList.h
-/Users/cocoryse/Desktop/Учусь/c++/Laba3Task8/DataList.h
+string
+/Users/cocoryse/Desktop/Учусь/c++/Laba3Task8/string
 

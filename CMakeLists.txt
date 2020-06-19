@@ -3,4 +3,4 @@ project(Laba3Task8)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Laba3Task8 main.cpp CommunalPayment.h CommunalPayment.cpp Utils.cpp)
+add_executable(Laba3Task8 main.cpp CommunalPayment.h CommunalPayment.cpp Utils.cpp Utils.h)

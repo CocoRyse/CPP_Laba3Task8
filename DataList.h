@@ -7,7 +7,7 @@
 #include <deque>
 #include <algorithm>
 #include <fstream>
-#include "Utils.cpp"
+#include "Utils.h"
 
 using std::deque;
 using std::istream_iterator;

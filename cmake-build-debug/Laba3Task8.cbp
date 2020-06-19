@@ -89,6 +89,9 @@
 		<Unit filename="/Users/cocoryse/Desktop/Учусь/c++/Laba3Task8/Utils.cpp">
 			<Option target="Laba3Task8"/>
 		</Unit>
+		<Unit filename="/Users/cocoryse/Desktop/Учусь/c++/Laba3Task8/Utils.h">
+			<Option target="Laba3Task8"/>
+		</Unit>
 		<Unit filename="/Users/cocoryse/Desktop/Учусь/c++/Laba3Task8/main.cpp">
 			<Option target="Laba3Task8"/>
 		</Unit>
