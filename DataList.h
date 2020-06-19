@@ -285,12 +285,10 @@ public:
     void load() {
         ifstream file(storage_name, std::ios_base::in);
         fread_full(file);
-//        fread_full(ifstream(storage_name, std::ios_base::in));
     }
 
     void save() {
         ofstream file(storage_name, std::ios_base::out);
-//        fwrite_full(ifstream(storage_name, std::ios_base::out));
         fwrite_full(file);
     }
 
@@ -338,8 +336,6 @@ public:
 
 // ---------------------- Методы для вывода данных на экран --------------------------------------------------
     void print_data() {
-//        for (auto i = deq.begin(); i < deq.end(); i++)
-//            print_data(i);
         copy(deq.begin(), deq.end(), ostream_iterator<T>(cout, "\n"));
     }
 
